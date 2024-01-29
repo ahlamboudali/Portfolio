@@ -1,17 +1,6 @@
 # Design
 
-## Project's design overview
+"I've designed a user-friendly website that offers effortless navigation,
+allowing users to seamlessly access specific sections with ease."
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
-
----
-
-## Wireframe(s)
-
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![design](design.png)

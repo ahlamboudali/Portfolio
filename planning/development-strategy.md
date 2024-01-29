@@ -1,55 +1,129 @@
-# Project Name
+# Ahlam's Portfolio
 
-<!-- describe your project -->
+## Navigation
 
----
+### As a user I want to see navigation of the page
 
-## Setup
+- This user story is developed on branch `nav`.
+- This branch is merged to `main` branch after completion.
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+### HTML
 
----
+- add `nav`
+- add `ul` and `li`
+- add links `a`
 
-<!-- copy this section once for each must-have user story -->
+### CSS
 
-## user story
+- Set properties like `color`, `text-decoration`, `font-weight`,
+  `padding`,`margin`
 
-<!-- each issue created from this section will have the `for: user story` label -->
+## Title and background
 
-> "as a ... i can ... so that ..."
+### As a user I want to see the title and background of the page
 
-<!-- write any extra notes or description -->
+- This user story is developed on branch `header`.
+- This branch is merged to `main` branch after completion.
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+### HTML
 
-### Logic: user story
+- add `div` tag
+- add `ul` tag
+- add `li` tag
+- add `h1` tag for the title
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### CSS
 
-### Interface: user story
+- make display `flex`
+- add `background`
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Introduction
 
-### Interaction: user story
+### As a user I want to see info section
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- This user story is developed on branch `introduction`.
+- This branch is merged to `main` branch after completion.
 
-### Documentation: user story
+### HTML
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add `section` tag
+- add `h2` tag
+- add `div` tag
+
+### CSS
+
+- make display `flex`
+- add `padding`, `color`,`font-size`, `font-family`, `background-color`
+
+## Work experience
+
+### As a user I want to see work experience
+
+- This user story is developed on branch `experience`.
+- This branch is merged to `main` branch after completion.
+
+### HTML
+
+- add `section`
+- add `h`
+- add `p`
+- add `div`
+
+### CSS
+
+- make `display` flex add `padding` and `margin`
+- add `width` and `height`
+- set `font-family`, `color`
+
+## Skills
+
+### As a user I want to see yhe section with skills
+
+- This user story is developed on branch `skills`.
+- This branch is merged to `main` branch after completion.
+
+### HTML
+
+- add `div`
+- add `img`
+- add `p`
+
+### CSS
+
+- add `display`,`width`,`background-color`,`margin-top`,
+
+## Contact
+
+### As a user I want to see more links the page
+
+- This user story is developed on branch `contact`.
+- This branch is merged to `main` branch after completion.
+
+### HTML
+
+- add `div`
+- add `h`
+- add `p`
+- add `input`
+- add `button`
+
+### CSS
+
+- add `display`,`width`,`background-color`,`border-radius`, `padding`
+
+## Footer
+
+### As a user I want to see footer to contact the website owner
+
+- This user story is developed on branch `footer`.
+- This branch is merged to `main` branch after completion.
+
+### HTML
+
+- add `footer` tag
+- add `div` tag
+
+### CSS
+
+- add class `section-footer` to `footer` tag and `footer` to `div`
+- add `padding`, `width`, `display`, `line-height`
