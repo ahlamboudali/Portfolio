@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](/img/Capture%20d'écran.png)
 
 ## Technologies
 
