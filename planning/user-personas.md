@@ -8,7 +8,7 @@
 - Skills: Proficient in HTML, CSS, JavaScript, React.js
 - Interests: UI/UX design, responsive web development, accessibility
 
-## Needs/Goals
+## Goals
 
 - Enhance Coding Skills: Sarah aims to continuously improve her coding skills
   and stay updated with the latest frontend technologies and best practices.
@@ -41,19 +41,19 @@
   design, branding
 - Interests: Web design, digital art, typography
 
-## Needs/Goals
+## Needs
 
 - Emily wants to showcase her design portfolio to potential clients and
   employers. She aims to highlight her skills, creativity, and design style
   through a visually appealing and professional portfolio website.
 
-## Frustrations
+## frustrations
 
 - Emily feels frustrated by the limited visibility of her design work. She
   believes that a well-designed portfolio website could help her attract more
   attention and opportunities in the competitive design market.
 
-## Scenario
+## scenario
 
 - Emily is preparing to launch her freelance design career and wants to create a
   portfolio website to showcase her best projects and attract potential clients.
