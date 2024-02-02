@@ -15,6 +15,7 @@ body {
   display: inline-block;
   margin: 30px 0;
   border-radius: 5px;
+  font-family: cursive;
 }
 
 .navbr {
@@ -45,12 +46,14 @@ nav ul li a:hover {
   margin-left: 10%;
   display: flex;
   align-items: center;
+  font-family: cursive;
 }
 
 .intro h1 {
   font-size: 50px;
   color: black;
   margin-bottom: 20px;
+  font-family: cursive;
 }
 
 span {
@@ -68,6 +71,7 @@ span {
   padding: 25px 0;
   background: #262626;
   margin-top: 20px;
+  font-family: cursive;
 }
 
 .copyright i {

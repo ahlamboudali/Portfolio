@@ -42,8 +42,6 @@ nav ul li a:hover {
   color: #974552;
 }
 
-/* contact page */
-
 .contact-left {
   flex-basis: 35%;
   padding-top: 45px;
@@ -82,6 +80,7 @@ nav ul li a:hover {
   display: inline-block;
   margin: 20px 0;
   border-radius: 5px;
+  font-family: cursive;
 }
 
 .contact-right form {
@@ -117,6 +116,7 @@ form input {
 .alltrying {
   display: flex;
   justify-content: center;
+  font-family: cursive;
 }
 
 form .btn2 {
@@ -133,6 +133,7 @@ form .btn2 {
   padding: 25px 0;
   background: #262626;
   margin-top: 20px;
+  font-family: cursive;
 }
 
 .container {
