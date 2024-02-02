@@ -30,40 +30,36 @@ nav ul li a:hover {
   color: #974552;
 }
 
-.sub-title {
-  font-size: 60px;
-  font-weight: 600;
-  color: black;
-  text-align: center;
+.work {
   font-family: cursive;
+  padding: 35px;
 }
 
 .tab-links {
-  margin-right: 50px;
-  font-size: 18px;
-  font-weight: 500;
-  cursor: pointer;
+  color: #9c4c59;
+  font-size: x-large;
 }
 
-.img {
-  width: 800px;
-  height: 100%;
-}
-
-.tab-contents ul li {
-  margin: 10px 0;
-}
-
-.container {
+h1 {
   display: flex;
+  justify-content: center;
+  font-size: xxx-large;
+  text-decoration: underline;
 }
 
-.tab-title {
-  background-color: #ffe7b8;
-  font-family: cursive;
+.calculator {
+  padding: 35px;
+  margin-left: 65px;
+}
+
+.menu {
+  height: 470px;
+  width: 500px;
+  margin: 30px;
   padding-left: 20px;
 }
 
+/* footer */
 .copyright {
   color: white;
   width: 100%;
